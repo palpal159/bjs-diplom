@@ -6,10 +6,10 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
-        "USD": 20,
-        "EUR": 20,
-        "NTC": 3000
+        "RUB": 45500.26055750292,
+        "USD": 41804.547168388504,
+        "EUR": 160435.51519936832,
+        "NTC": 473150
       }
     },
     {
@@ -59,6 +59,102 @@
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2022-12-08T06:10:36.830Z",
+      "login": "eartefov@bk.ru",
+      "password": "123",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T06:32:44.771Z",
+      "login": "val@demo.ru",
+      "password": "123",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T06:37:57.680Z",
+      "login": "uva@demo.com",
+      "password": "123",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T06:41:43.353Z",
+      "login": "ret@demo.com",
+      "password": "123",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T09:08:17.885Z",
+      "login": "vlad@demo.ru",
+      "password": "demo",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T09:17:12.165Z",
+      "login": "papa@demo.ru",
+      "password": "123",
+      "id": 11,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T09:18:35.200Z",
+      "login": "mma@demo.ru",
+      "password": "123",
+      "id": 12,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2022-12-08T09:19:29.232Z",
+      "login": "mmm@demo.ru",
+      "password": "123",
+      "id": 13,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
